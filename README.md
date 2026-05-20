@@ -38,8 +38,11 @@
 
 ## 📊 GitHub Ecosystem Stats
 
-![Prabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prabin-63&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabin-63&layout=compact&theme=tokyonight&hide_border=true)
+![Prabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Prabin-63&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prabin-63&layout=compact&theme=tokyonight&hide_border=true&langs_count=6)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Prabin-63&theme=tokyonight&hide_border=true)
 
 ---
 
