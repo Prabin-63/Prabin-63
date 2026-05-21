@@ -2,7 +2,7 @@
 **Computer Engineering Undergrad | ML Enthusiast | NLP & Low-Resource AI**
 
 - 🤝 I'm looking to collaborate on: NLP projects, Deep learning, low-resource language AI, and ML-powered web apps.
-- 📫 Reach me: [bashalprabin13@gmail.com](mailto:bashalprabin13@gmail.com)
+- 📫 Reach me: [bashalprabin13@gmail.com](mailto:bashalprabin13@gmail.com),[bashyalprabin13@gmail.com](mailto:bashyalprabin13@gmail.com)
 - 🔗 LinkedIn: [linkedin.com/in/prabin-ub3](https://www.linkedin.com/in/prabin-ub3/)
 
 ---
